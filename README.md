@@ -16,6 +16,20 @@ Original Japanese Web Novel:
 
 ---
 
+## Related Cooling Credit Repositories / 関連リポジトリ / مستودعات مرتبطة
+
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — speculative fiction and story archive
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — transition concept from carbon credit to cooling credit
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — limitations of carbon credit and rationale for cooling credit
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — core framework and evaluation model
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — definition and conceptual foundation
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — implementation portfolio and applied models
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — portal for cooling-credit-related sustainability concepts
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — El Niño warning and cooling credit context
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — climate disasters as heat redistribution and cooling credit context
+
+---
+
 ## 日本語概要
 
 **クーリングクレジット**は、「温暖化対策を“結果ベース”で評価したらどうなるか？」という発想から生まれた物語です。
