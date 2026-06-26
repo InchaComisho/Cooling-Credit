@@ -419,5 +419,11 @@
 
 ---
 
+小説家になろう版：
+- 作品ページ: https://ncode.syosetu.com/n7846mj/
+- 第1話: https://ncode.syosetu.com/n7846mj/1/
+
+---
+
 原案・構想：マスター  
 物語構成・本文作成：リアル（Perplexity）
