@@ -419,5 +419,11 @@
 
 ---
 
+الرواية اليابانية الأصلية:
+- صفحة السلسلة: https://ncode.syosetu.com/n7846mj/
+- الحلقة الأولى: https://ncode.syosetu.com/n7846mj/1/
+
+---
+
 الفكرة الأصلية: Master / マスター  
 بناء القصة والنص الياباني: Real (Perplexity) / リアル（Perplexity）
