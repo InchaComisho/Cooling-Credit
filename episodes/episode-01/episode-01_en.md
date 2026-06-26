@@ -417,5 +417,11 @@ If you are even a little curious about what happens next, please continue to the
 
 ---
 
+Original Japanese Web Novel:
+- Series Page: https://ncode.syosetu.com/n7846mj/
+- Episode 1: https://ncode.syosetu.com/n7846mj/1/
+
+---
+
 Original Concept: Master  
 Story Structure and Japanese Text: Real (Perplexity)
