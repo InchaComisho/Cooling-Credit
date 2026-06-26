@@ -2,7 +2,9 @@
 
 **Cooling Credit** is a speculative fiction project and conceptual framework about a result-based climate economy: a world where value is created not by claiming to be environmentally friendly, but by actually lowering measurable temperature.
 
-Original Japanese web novel page: https://ncode.syosetu.com/n7846mj/
+Original Japanese Web Novel:
+- Series Page: https://ncode.syosetu.com/n7846mj/
+- Episode 1: https://ncode.syosetu.com/n7846mj/1/
 
 ---
 
