@@ -375,7 +375,7 @@ Constraints.
 
 Optimization.
 
-All of it was something to攻略—to conquer.
+All of it was something to solve.
 
 He stepped outside.
 
