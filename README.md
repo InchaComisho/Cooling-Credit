@@ -5,6 +5,7 @@
 Original Japanese Web Novel:
 - Series Page: https://ncode.syosetu.com/n7846mj/
 - Episode 1: https://ncode.syosetu.com/n7846mj/1/
+- Episode 2: https://ncode.syosetu.com/n7846mj/2/
 
 ---
 
@@ -13,6 +14,7 @@ Original Japanese Web Novel:
 | Episode | Japanese | English | Arabic |
 |---|---|---|---|
 | Episode 1 / 第1話 | [気温は通貨になる](episodes/episode-01/episode-01_ja.md) | [Temperature Becomes Currency](episodes/episode-01/episode-01_en.md) | [تصبح درجة الحرارة عملة](episodes/episode-01/episode-01_ar.md) |
+| Episode 2 / 第2話 | [はじめての冷却収入](episodes/episode-02/episode-02_ja.md) | [The First Cooling Income](episodes/episode-02/episode-02_en.md) | [أول دخل من التبريد](episodes/episode-02/episode-02_ar.md) |
 
 ---
 
