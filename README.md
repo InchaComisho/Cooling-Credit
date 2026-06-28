@@ -6,6 +6,7 @@ Original Japanese Web Novel:
 - Series Page: https://ncode.syosetu.com/n7846mj/
 - Episode 1: https://ncode.syosetu.com/n7846mj/1/
 - Episode 2: https://ncode.syosetu.com/n7846mj/2/
+- Episode 3: https://ncode.syosetu.com/n7846mj/3/
 
 ---
 
@@ -15,6 +16,7 @@ Original Japanese Web Novel:
 |---|---|---|---|
 | Episode 1 / 第1話 | [気温は通貨になる](episodes/episode-01/episode-01_ja.md) | [Temperature Becomes Currency](episodes/episode-01/episode-01_en.md) | [تصبح درجة الحرارة عملة](episodes/episode-01/episode-01_ar.md) |
 | Episode 2 / 第2話 | [はじめての冷却収入](episodes/episode-02/episode-02_ja.md) | [The First Cooling Income](episodes/episode-02/episode-02_en.md) | [أول دخل من التبريد](episodes/episode-02/episode-02_ar.md) |
+| Episode 3 / 第3話 | [生活と冷却の両立](episodes/episode-03/episode-03_ja.md) | [Balancing Life and Cooling](episodes/episode-03/episode-03_en.md) | [التوفيق بين الحياة والتبريد](episodes/episode-03/episode-03_ar.md) |
 
 ---
 
@@ -32,6 +34,9 @@ This repository is part of the broader Cooling Credit knowledge system proposed 
 - [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — Portal for sustainable future and Cooling Credit knowledge.
 - [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — El Niño warning and Cooling Credit perspective.
 - [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — Climate disasters as heat redistribution and the role of Cooling Credit.
+
+---
+
 ## 日本語概要
 
 **クーリングクレジット**は、「温暖化対策を“結果ベース”で評価したらどうなるか？」という発想から生まれた物語です。
@@ -98,6 +103,11 @@ This repository is part of the broader Cooling Credit knowledge system proposed 
 - [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — Portal for sustainable future and Cooling Credit knowledge.
 - [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — El Niño warning and Cooling Credit perspective.
 - [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — Climate disasters as heat redistribution and the role of Cooling Credit.
+
+<!-- COOLING-CREDIT-REPOSITORY-FAMILY:END -->
+
+---
+
 ## License / ライセンス / الترخيص
 
 This repository is published as an open conceptual and literary archive.  
