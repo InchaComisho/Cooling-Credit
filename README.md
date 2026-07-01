@@ -9,6 +9,7 @@ Original Japanese Web Novel:
 - Episode 3: https://ncode.syosetu.com/n7846mj/3/
 - Episode 4: https://ncode.syosetu.com/n7846mj/4/
 - Episode 5: https://ncode.syosetu.com/n7846mj/5/
+- Episode 6: https://ncode.syosetu.com/n7846mj/6/
 
 ---
 
@@ -21,6 +22,7 @@ Original Japanese Web Novel:
 | Episode 3 / 第3話 | [生活と冷却の両立](episodes/episode-03/episode-03_ja.md) | [Balancing Life and Cooling](episodes/episode-03/episode-03_en.md) | [التوفيق بين الحياة والتبريد](episodes/episode-03/episode-03_ar.md) |
 | Episode 4 / 第4話 | [街を読む目](episodes/episode-04/episode-04_ja.md) | [Reading the City](episodes/episode-04/episode-04_en.md) | [عين تقرأ المدينة](episodes/episode-04/episode-04_ar.md) |
 | Episode 5 / 第5話 | [見えない仲間](episodes/episode-05/episode-05_ja.md) | [Unseen Companions](episodes/episode-05/episode-05_en.md) | [رفاق غير مرئيين](episodes/episode-05/episode-05_ar.md) |
+| Episode 6 / 第6話 | [ログを外に出すか](episodes/episode-06/episode-06_ja.md) | [Should the Logs Go Outside?](episodes/episode-06/episode-06_en.md) | [هل أُخرج السجلات إلى الخارج؟](episodes/episode-06/episode-06_ar.md) |
 
 ---
 
