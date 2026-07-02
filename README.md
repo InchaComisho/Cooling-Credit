@@ -10,6 +10,7 @@ Original Japanese Web Novel:
 - Episode 4: https://ncode.syosetu.com/n7846mj/4/
 - Episode 5: https://ncode.syosetu.com/n7846mj/5/
 - Episode 6: https://ncode.syosetu.com/n7846mj/6/
+- Episode 7: https://ncode.syosetu.com/n7846mj/7/
 
 ---
 
@@ -23,6 +24,7 @@ Original Japanese Web Novel:
 | Episode 4 / 第4話 | [街を読む目](episodes/episode-04/episode-04_ja.md) | [Reading the City](episodes/episode-04/episode-04_en.md) | [عين تقرأ المدينة](episodes/episode-04/episode-04_ar.md) |
 | Episode 5 / 第5話 | [見えない仲間](episodes/episode-05/episode-05_ja.md) | [Unseen Companions](episodes/episode-05/episode-05_en.md) | [رفاق غير مرئيين](episodes/episode-05/episode-05_ar.md) |
 | Episode 6 / 第6話 | [ログを外に出すか](episodes/episode-06/episode-06_ja.md) | [Should the Logs Go Outside?](episodes/episode-06/episode-06_en.md) | [هل أُخرج السجلات إلى الخارج؟](episodes/episode-06/episode-06_ar.md) |
+| Episode 7 / 第7話 | [ログが返ってくる](episodes/episode-07/episode-07_ja.md) | [The Logs Come Back](episodes/episode-07/episode-07_en.md) | [عودة السجلات](episodes/episode-07/episode-07_ar.md) |
 
 ---
 
