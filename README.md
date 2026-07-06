@@ -13,6 +13,7 @@ Original Japanese Web Novel:
 - Episode 7: https://ncode.syosetu.com/n7846mj/7/
 - Episode 8: https://ncode.syosetu.com/n7846mj/8/
 - Episode 9: https://ncode.syosetu.com/n7846mj/9/
+- Episode 11: https://ncode.syosetu.com/n7846mj/11/
 
 ---
 
@@ -29,6 +30,7 @@ Original Japanese Web Novel:
 | Episode 7 / 第7話 | [ログが返ってくる](episodes/episode-07/episode-07_ja.md) | [The Logs Come Back](episodes/episode-07/episode-07_en.md) | [عودة السجلات](episodes/episode-07/episode-07_ar.md) |
 | Episode 8 / 第8話 | [生活圏の外側へ](episodes/episode-08/episode-08_ja.md) | [Beyond the Living Zone](episodes/episode-08/episode-08_en.md) | [إلى خارج نطاق الحياة](episodes/episode-08/episode-08_ar.md) |
 | Episode 9 / 第9話 | [採用と違和感](episodes/episode-09/episode-09_ja.md) | [Adoption and Discomfort](episodes/episode-09/episode-09_en.md) | [الاعتماد والغرابة](episodes/episode-09/episode-09_ar.md) |
+| Episode 11 / 第11話 | [どこまでが自分の街か](episodes/episode-11/episode-11_ja.md) | [How Far Is My Town?](episodes/episode-11/episode-11_en.md) | [إلى أين تصل مدينتي؟](episodes/episode-11/episode-11_ar.md) |
 
 ---
 
