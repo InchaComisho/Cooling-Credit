@@ -4,7 +4,10 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
-Original Japanese Web Novel:
+## Original Japanese Web Novel
+
+### Part 1 — Living Zone Cooling Arc
+
 - Series Page: https://ncode.syosetu.com/n7846mj/
 - Episode 1: https://ncode.syosetu.com/n7846mj/1/
 - Episode 2: https://ncode.syosetu.com/n7846mj/2/
@@ -17,6 +20,11 @@ Original Japanese Web Novel:
 - Episode 9: https://ncode.syosetu.com/n7846mj/9/
 - Episode 11: https://ncode.syosetu.com/n7846mj/11/
 - Episode 12: https://ncode.syosetu.com/n7846mj/12/
+
+### Part 2 — Systems, Projects, and Cooling Commons Arc
+
+- Series Page: https://ncode.syosetu.com/n1717ml/
+- Episode 13 / Part 2 Episode 1: https://ncode.syosetu.com/n1717ml/1/
 
 ---
 
@@ -35,6 +43,7 @@ Original Japanese Web Novel:
 | Episode 9 / 第9話 | [採用と違和感](episodes/episode-09/episode-09_ja.md) | [Adoption and Discomfort](episodes/episode-09/episode-09_en.md) | [الاعتماد والغرابة](episodes/episode-09/episode-09_ar.md) |
 | Episode 11 / 第11話 | [どこまでが自分の街か](episodes/episode-11/episode-11_ja.md) | [How Far Is My Town?](episodes/episode-11/episode-11_en.md) | [إلى أين تصل مدينتي؟](episodes/episode-11/episode-11_ar.md) |
 | Episode 12 / 第12話 | [一区切りと次の一歩](episodes/episode-12/episode-12_ja.md) | [A Milestone and the Next Step](episodes/episode-12/episode-12_en.md) | [محطة فاصلة وخطوة تالية](episodes/episode-12/episode-12_ar.md) |
+| Episode 13 / 第13話 / Part 2 Episode 1 | [制度が降りてくる音](episodes/episode-13/episode-13_ja.md) | [The Sound of Systems Arriving](episodes/episode-13/episode-13_en.md) | [صوت وصول النظام](episodes/episode-13/episode-13_ar.md) |
 
 ---
 
