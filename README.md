@@ -28,6 +28,7 @@
 - Episode 13 / Part 2 Episode 1: https://ncode.syosetu.com/n1717ml/1/
 - Episode 14 / Part 2 Episode 2: https://ncode.syosetu.com/n1717ml/2/
 - Episode 15 / Part 2 Episode 3: https://ncode.syosetu.com/n1717ml/3/
+- Episode 16 / Part 2 Episode 4: https://ncode.syosetu.com/n1717ml/4/
 
 ---
 
@@ -50,6 +51,7 @@
 | Episode 13 / 第13話 / Part 2 Episode 1 | [制度が降りてくる音](episodes/episode-13/episode-13_ja.md) | [The Sound of Systems Arriving](episodes/episode-13/episode-13_en.md) | [صوت وصول النظام](episodes/episode-13/episode-13_ar.md) |
 | Episode 14 / 第14話 / Part 2 Episode 2 | [設計図の端に書かれた文字](episodes/episode-14/episode-14_ja.md) | [Words Written at the Edge of the Blueprint](episodes/episode-14/episode-14_en.md) | [كلمات كُتبت عند حافة المخطط](episodes/episode-14/episode-14_ar.md) |
 | Episode 15 / 第15話 / Part 2 Episode 3 | [会議室からの風](episodes/episode-15/episode-15_ja.md) | [Wind from the Meeting Room](episodes/episode-15/episode-15_en.md) | [ريح من غرفة الاجتماعات](episodes/episode-15/episode-15_ar.md) |
+| Episode 16 / 第16話 / Part 2 Episode 4 | [企業からの相談窓口](episodes/episode-16/episode-16_ja.md) | [The Corporate Consultation Desk](episodes/episode-16/episode-16_en.md) | [نافذة التشاور مع الشركات](episodes/episode-16/episode-16_ar.md) |
 
 ---
 
