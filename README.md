@@ -30,6 +30,7 @@
 - Episode 15 / Part 2 Episode 3: https://ncode.syosetu.com/n1717ml/3/
 - Episode 16 / Part 2 Episode 4: https://ncode.syosetu.com/n1717ml/4/
 - Episode 17 / Part 2 Episode 5: https://ncode.syosetu.com/n1717ml/5/
+- Episode 18 / Part 2 Episode 6: https://ncode.syosetu.com/n1717ml/6/
 
 ---
 
@@ -54,6 +55,7 @@
 | Episode 15 / 第15話 / Part 2 Episode 3 | [会議室からの風](episodes/episode-15/episode-15_ja.md) | [Wind from the Meeting Room](episodes/episode-15/episode-15_en.md) | [ريح من غرفة الاجتماعات](episodes/episode-15/episode-15_ar.md) |
 | Episode 16 / 第16話 / Part 2 Episode 4 | [企業からの相談窓口](episodes/episode-16/episode-16_ja.md) | [The Corporate Consultation Desk](episodes/episode-16/episode-16_en.md) | [نافذة التشاور مع الشركات](episodes/episode-16/episode-16_ar.md) |
 | Episode 17 / 第17話 / Part 2 Episode 5 | [うれしさとざらつき](episodes/episode-17/episode-17_ja.md) | [Happiness and Unease](episodes/episode-17/episode-17_en.md) | [الفرح والخشونة](episodes/episode-17/episode-17_ar.md) |
+| Episode 18 / 第18話 / Part 2 Episode 6 | [自分のために冷やす日](episodes/episode-18/episode-18_ja.md) | [A Day to Cool for Myself](episodes/episode-18/episode-18_en.md) | [يوم للتبريد من أجل نفسي](episodes/episode-18/episode-18_ar.md) |
 
 ---
 
