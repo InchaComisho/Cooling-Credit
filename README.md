@@ -32,6 +32,7 @@
 - Episode 17 / Part 2 Episode 5: https://ncode.syosetu.com/n1717ml/5/
 - Episode 18 / Part 2 Episode 6: https://ncode.syosetu.com/n1717ml/6/
 - Episode 19 / Part 2 Episode 7: https://ncode.syosetu.com/n1717ml/7/
+- Episode 20 / Part 2 Episode 8: https://ncode.syosetu.com/n1717ml/8/
 
 ---
 
@@ -58,6 +59,7 @@
 | Episode 17 / 第17話 / Part 2 Episode 5 | [うれしさとざらつき](episodes/episode-17/episode-17_ja.md) | [Happiness and Unease](episodes/episode-17/episode-17_en.md) | [الفرح والخشونة](episodes/episode-17/episode-17_ar.md) |
 | Episode 18 / 第18話 / Part 2 Episode 6 | [自分のために冷やす日](episodes/episode-18/episode-18_ja.md) | [A Day to Cool for Myself](episodes/episode-18/episode-18_en.md) | [يوم للتبريد من أجل نفسي](episodes/episode-18/episode-18_ar.md) |
 | Episode 19 / 第19話 / Part 2 Episode 7 | [0.5に名前をつけるなら](episodes/episode-19/episode-19_ja.md) | [If I Were to Give 0.5 a Name](episodes/episode-19/episode-19_en.md) | [لو أعطيتُ 0.5 اسماً](episodes/episode-19/episode-19_ar.md) |
+| Episode 20 / 第20話 / Part 2 Episode 8 | [踏み込みすぎない相談](episodes/episode-20/episode-20_ja.md) | [A Consultation That Does Not Go Too Far](episodes/episode-20/episode-20_en.md) | [استشارة لا تتجاوز الحدود](episodes/episode-20/episode-20_ar.md) |
 
 ---
 
