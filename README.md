@@ -38,6 +38,11 @@
 - Episode 23 / Part 2 Episode 11: https://ncode.syosetu.com/n1717ml/11/
 - Episode 24 / Part 2 Episode 12: https://ncode.syosetu.com/n1717ml/12/
 
+### Part 3 — Official Version, Return, and Inequality Arc
+
+- Series Page: https://ncode.syosetu.com/n1717ml/
+- Episode 25 / Part 3 Episode 1: https://ncode.syosetu.com/n1717ml/13/
+
 ---
 
 ## Episode Links / エピソードリンク / روابط الحلقات
@@ -68,6 +73,7 @@
 | Episode 22 / 第22話 / Part 2 Episode 10 | [名前のないポスター](episodes/episode-22/episode-22_ja.md) | [The Poster Without a Name](episodes/episode-22/episode-22_en.md) | [ملصق بلا اسم](episodes/episode-22/episode-22_ar.md) |
 | Episode 23 / 第23話 / Part 2 Episode 11 | [盗まれてはいない、でも足りない](episodes/episode-23/episode-23_ja.md) | [Not Stolen, But Not Enough](episodes/episode-23/episode-23_en.md) | [لم يُسرق، لكنه غير كافٍ](episodes/episode-23/episode-23_ar.md) |
 | Episode 24 / 第24話 / Part 2 Episode 12 | [言葉の効き目を確かめに行く](episodes/episode-24/episode-24_ja.md) | [Going to Check the Effect of Words](episodes/episode-24/episode-24_en.md) | [الذهاب للتحقق من أثر الكلمات](episodes/episode-24/episode-24_ar.md) |
+| Episode 25 / 第25話 / Part 3 Episode 1 | [正式版が始まる日](episodes/episode-25/episode-25_ja.md) | [The Day the Official Version Begins](episodes/episode-25/episode-25_en.md) | [يوم تبدأ النسخة الرسمية](episodes/episode-25/episode-25_ar.md) |
 
 ---
 
