@@ -42,6 +42,7 @@
 
 - Series Page: https://ncode.syosetu.com/n1717ml/
 - Episode 25 / Part 3 Episode 1: https://ncode.syosetu.com/n1717ml/13/
+- Episode 26 / Part 3 Episode 2: https://ncode.syosetu.com/n1717ml/14/
 
 ---
 
@@ -74,6 +75,7 @@
 | Episode 23 / 第23話 / Part 2 Episode 11 | [盗まれてはいない、でも足りない](episodes/episode-23/episode-23_ja.md) | [Not Stolen, But Not Enough](episodes/episode-23/episode-23_en.md) | [لم يُسرق، لكنه غير كافٍ](episodes/episode-23/episode-23_ar.md) |
 | Episode 24 / 第24話 / Part 2 Episode 12 | [言葉の効き目を確かめに行く](episodes/episode-24/episode-24_ja.md) | [Going to Check the Effect of Words](episodes/episode-24/episode-24_en.md) | [الذهاب للتحقق من أثر الكلمات](episodes/episode-24/episode-24_ar.md) |
 | Episode 25 / 第25話 / Part 3 Episode 1 | [正式版が始まる日](episodes/episode-25/episode-25_ja.md) | [The Day the Official Version Begins](episodes/episode-25/episode-25_en.md) | [يوم تبدأ النسخة الرسمية](episodes/episode-25/episode-25_ar.md) |
+| Episode 26 / 第26話 / Part 3 Episode 2 | [支援の通知が落ちる音](episodes/episode-26/episode-26_ja.md) | [The Sound of a Support Notification Falling](episodes/episode-26/episode-26_en.md) | [صوت سقوط إشعار الدعم](episodes/episode-26/episode-26_ar.md) |
 
 ---
 
