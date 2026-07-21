@@ -43,6 +43,7 @@
 - Series Page: https://ncode.syosetu.com/n1717ml/
 - Episode 25 / Part 3 Episode 1: https://ncode.syosetu.com/n1717ml/13/
 - Episode 26 / Part 3 Episode 2: https://ncode.syosetu.com/n1717ml/14/
+- Episode 27 / Part 3 Episode 3: https://ncode.syosetu.com/n1717ml/15/
 
 ---
 
@@ -76,6 +77,7 @@
 | Episode 24 / 第24話 / Part 2 Episode 12 | [言葉の効き目を確かめに行く](episodes/episode-24/episode-24_ja.md) | [Going to Check the Effect of Words](episodes/episode-24/episode-24_en.md) | [الذهاب للتحقق من أثر الكلمات](episodes/episode-24/episode-24_ar.md) |
 | Episode 25 / 第25話 / Part 3 Episode 1 | [正式版が始まる日](episodes/episode-25/episode-25_ja.md) | [The Day the Official Version Begins](episodes/episode-25/episode-25_en.md) | [يوم تبدأ النسخة الرسمية](episodes/episode-25/episode-25_ar.md) |
 | Episode 26 / 第26話 / Part 3 Episode 2 | [支援の通知が落ちる音](episodes/episode-26/episode-26_ja.md) | [The Sound of a Support Notification Falling](episodes/episode-26/episode-26_en.md) | [صوت سقوط إشعار الدعم](episodes/episode-26/episode-26_ar.md) |
+| Episode 27 / 第27話 / Part 3 Episode 3 | [当たった側と見ている側](episodes/episode-27/episode-27_ja.md) | [The Side That Received Support and the Side Watching](episodes/episode-27/episode-27_en.md) | [جهة حصلت على الدعم وجهة تراقب](episodes/episode-27/episode-27_ar.md) |
 
 ---
 
