@@ -46,6 +46,7 @@
 - Episode 27 / Part 3 Episode 3: https://ncode.syosetu.com/n1717ml/15/
 - Episode 28 / Part 3 Episode 4: https://ncode.syosetu.com/n1717ml/16/
 - Episode 29 / Part 3 Episode 5: https://ncode.syosetu.com/n1717ml/17/
+- Episode 30 / Part 3 Episode 6: https://ncode.syosetu.com/n1717ml/18/
 
 ---
 
@@ -82,6 +83,7 @@
 | Episode 27 / 第27話 / Part 3 Episode 3 | [当たった側と見ている側](episodes/episode-27/episode-27_ja.md) | [The Side That Received Support and the Side Watching](episodes/episode-27/episode-27_en.md) | [جهة حصلت على الدعم وجهة تراقب](episodes/episode-27/episode-27_ar.md) |
 | Episode 28 / 第28話 / Part 3 Episode 4 | [支援のある午後](episodes/episode-28/episode-28_ja.md) | [An Afternoon with Support](episodes/episode-28/episode-28_en.md) | [بعد ظهر مع الدعم](episodes/episode-28/episode-28_ar.md) |
 | Episode 29 / 第29話 / Part 3 Episode 5 | [当たらなかった夏](episodes/episode-29/episode-29_ja.md) | [The Summer That Did Not Receive Support](episodes/episode-29/episode-29_en.md) | [الصيف الذي لم يحصل على الدعم](episodes/episode-29/episode-29_ar.md) |
+| Episode 30 / 第30話 / Part 3 Episode 6 | [支援実績の使い道](episodes/episode-30/episode-30_ja.md) | [How Support Records Are Used](episodes/episode-30/episode-30_en.md) | [طريقة استخدام سجلات الدعم](episodes/episode-30/episode-30_ar.md) |
 
 ---
 
