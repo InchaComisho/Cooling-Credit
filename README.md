@@ -47,6 +47,7 @@
 - Episode 28 / Part 3 Episode 4: https://ncode.syosetu.com/n1717ml/16/
 - Episode 29 / Part 3 Episode 5: https://ncode.syosetu.com/n1717ml/17/
 - Episode 30 / Part 3 Episode 6: https://ncode.syosetu.com/n1717ml/18/
+- Episode 31 / Part 3 Episode 7: https://ncode.syosetu.com/n1717ml/19/
 
 ---
 
@@ -84,6 +85,7 @@
 | Episode 28 / 第28話 / Part 3 Episode 4 | [支援のある午後](episodes/episode-28/episode-28_ja.md) | [An Afternoon with Support](episodes/episode-28/episode-28_en.md) | [بعد ظهر مع الدعم](episodes/episode-28/episode-28_ar.md) |
 | Episode 29 / 第29話 / Part 3 Episode 5 | [当たらなかった夏](episodes/episode-29/episode-29_ja.md) | [The Summer That Did Not Receive Support](episodes/episode-29/episode-29_en.md) | [الصيف الذي لم يحصل على الدعم](episodes/episode-29/episode-29_ar.md) |
 | Episode 30 / 第30話 / Part 3 Episode 6 | [支援実績の使い道](episodes/episode-30/episode-30_ja.md) | [How Support Records Are Used](episodes/episode-30/episode-30_en.md) | [طريقة استخدام سجلات الدعم](episodes/episode-30/episode-30_ar.md) |
+| Episode 31 / 第31話 / Part 3 Episode 7 | [使われ方の会議室](episodes/episode-31/episode-31_ja.md) | [The Meeting Room of How Things Are Used](episodes/episode-31/episode-31_en.md) | [غرفة اجتماع طريقة الاستخدام](episodes/episode-31/episode-31_ar.md) |
 
 ---
 
