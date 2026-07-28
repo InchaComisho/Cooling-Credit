@@ -50,6 +50,7 @@
 - Episode 31 / Part 3 Episode 7: https://ncode.syosetu.com/n1717ml/19/
 - Episode 32 / Part 3 Episode 8: https://ncode.syosetu.com/n1717ml/20/
 - Episode 33 / Part 3 Episode 9: https://ncode.syosetu.com/n1717ml/21/
+- Episode 34 / Part 3 Episode 10: https://ncode.syosetu.com/n1717ml/22/
 
 ---
 
@@ -90,6 +91,7 @@
 | Episode 31 / 第31話 / Part 3 Episode 7 | [使われ方の会議室](episodes/episode-31/episode-31_ja.md) | [The Meeting Room of How Things Are Used](episodes/episode-31/episode-31_en.md) | [غرفة اجتماع طريقة الاستخدام](episodes/episode-31/episode-31_ar.md) |
 | Episode 32 / 第32話 / Part 3 Episode 8 | [見せ方を変える日](episodes/episode-32/episode-32_ja.md) | [The Day the Presentation Changed](episodes/episode-32/episode-32_en.md) | [يوم تغيّرت طريقة العرض](episodes/episode-32/episode-32_ar.md) |
 | Episode 33 / 第33話 / Part 3 Episode 9 | [透明性の先にあるもの](episodes/episode-33/episode-33_ja.md) | [What Lies Beyond Transparency](episodes/episode-33/episode-33_en.md) | [ما وراء الشفافية](episodes/episode-33/episode-33_ar.md) |
+| Episode 34 / 第34話 / Part 3 Episode 10 | [広がるほど見える影](episodes/episode-34/episode-34_ja.md) | [The Shadows Seen as Support Expands](episodes/episode-34/episode-34_en.md) | [الظلال التي تظهر كلما اتسع الدعم](episodes/episode-34/episode-34_ar.md) |
 
 ---
 
