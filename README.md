@@ -51,6 +51,7 @@
 - Episode 32 / Part 3 Episode 8: https://ncode.syosetu.com/n1717ml/20/
 - Episode 33 / Part 3 Episode 9: https://ncode.syosetu.com/n1717ml/21/
 - Episode 34 / Part 3 Episode 10: https://ncode.syosetu.com/n1717ml/22/
+- Episode 35 / Part 3 Episode 11: https://ncode.syosetu.com/n1717ml/23/
 
 ---
 
@@ -92,6 +93,7 @@
 | Episode 32 / 第32話 / Part 3 Episode 8 | [見せ方を変える日](episodes/episode-32/episode-32_ja.md) | [The Day the Presentation Changed](episodes/episode-32/episode-32_en.md) | [يوم تغيّرت طريقة العرض](episodes/episode-32/episode-32_ar.md) |
 | Episode 33 / 第33話 / Part 3 Episode 9 | [透明性の先にあるもの](episodes/episode-33/episode-33_ja.md) | [What Lies Beyond Transparency](episodes/episode-33/episode-33_en.md) | [ما وراء الشفافية](episodes/episode-33/episode-33_ar.md) |
 | Episode 34 / 第34話 / Part 3 Episode 10 | [広がるほど見える影](episodes/episode-34/episode-34_ja.md) | [The Shadows Seen as Support Expands](episodes/episode-34/episode-34_en.md) | [الظلال التي تظهر كلما اتسع الدعم](episodes/episode-34/episode-34_ar.md) |
+| Episode 35 / 第35話 / Part 3 Episode 11 | [使えない人のための設計](episodes/episode-35/episode-35_ja.md) | [Design for People Who Cannot Use It](episodes/episode-35/episode-35_en.md) | [تصميم من أجل من لا يستطيعون استخدامه](episodes/episode-35/episode-35_ar.md) |
 
 ---
 
