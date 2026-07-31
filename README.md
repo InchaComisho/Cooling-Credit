@@ -53,6 +53,11 @@
 - Episode 34 / Part 3 Episode 10: https://ncode.syosetu.com/n1717ml/22/
 - Episode 35 / Part 3 Episode 11: https://ncode.syosetu.com/n1717ml/23/
 
+### Part 4 — Implementation and Operation Arc
+
+- Series Page: https://ncode.syosetu.com/n1717ml/
+- Episode 37 / Part 4 Episode 1: https://ncode.syosetu.com/n1717ml/25/
+
 ---
 
 ## Episode Links / エピソードリンク / روابط الحلقات
@@ -94,6 +99,7 @@
 | Episode 33 / 第33話 / Part 3 Episode 9 | [透明性の先にあるもの](episodes/episode-33/episode-33_ja.md) | [What Lies Beyond Transparency](episodes/episode-33/episode-33_en.md) | [ما وراء الشفافية](episodes/episode-33/episode-33_ar.md) |
 | Episode 34 / 第34話 / Part 3 Episode 10 | [広がるほど見える影](episodes/episode-34/episode-34_ja.md) | [The Shadows Seen as Support Expands](episodes/episode-34/episode-34_en.md) | [الظلال التي تظهر كلما اتسع الدعم](episodes/episode-34/episode-34_ar.md) |
 | Episode 35 / 第35話 / Part 3 Episode 11 | [使えない人のための設計](episodes/episode-35/episode-35_ja.md) | [Design for People Who Cannot Use It](episodes/episode-35/episode-35_en.md) | [تصميم من أجل من لا يستطيعون استخدامه](episodes/episode-35/episode-35_ar.md) |
+| Episode 37 / 第37話 / Part 4 Episode 1 | [運用初日の空気](episodes/episode-37/episode-37_ja.md) | [The Atmosphere of the First Day of Operation](episodes/episode-37/episode-37_en.md) | [أجواء اليوم الأول من التشغيل](episodes/episode-37/episode-37_ar.md) |
 
 ---
 
