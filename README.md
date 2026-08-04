@@ -60,6 +60,7 @@
 - Episode 38 / Part 4 Episode 2: https://ncode.syosetu.com/n1717ml/26/
 - Episode 39 / Part 4 Episode 3: https://ncode.syosetu.com/n1717ml/27/
 - Episode 40 / Part 4 Episode 4: https://ncode.syosetu.com/n1717ml/28/
+- Episode 41 / Part 4 Episode 5: https://ncode.syosetu.com/n1717ml/29/
 
 ---
 
@@ -106,6 +107,7 @@
 | Episode 38 / 第38話 / Part 4 Episode 2 | [小さな摩擦](episodes/episode-38/episode-38_ja.md) | [Small Frictions](episodes/episode-38/episode-38_en.md) | [احتكاكات صغيرة](episodes/episode-38/episode-38_ar.md) |
 | Episode 39 / 第39話 / Part 4 Episode 3 | [ひとことが広がる](episodes/episode-39/episode-39_ja.md) | [One Sentence Spreads](episodes/episode-39/episode-39_en.md) | [جملة واحدة تنتشر](episodes/episode-39/episode-39_ar.md) |
 | Episode 40 / 第40話 / Part 4 Episode 4 | [続けるための工夫](episodes/episode-40/episode-40_ja.md) | [Improvements for Keeping It Going](episodes/episode-40/episode-40_en.md) | [تحسينات من أجل الاستمرار](episodes/episode-40/episode-40_ar.md) |
+| Episode 41 / 第41話 / Part 4 Episode 5 | [数字の向こう側](episodes/episode-41/episode-41_ja.md) | [Beyond the Numbers](episodes/episode-41/episode-41_en.md) | [ما وراء الأرقام](episodes/episode-41/episode-41_ar.md) |
 
 ---
 
