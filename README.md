@@ -62,6 +62,7 @@
 - Episode 40 / Part 4 Episode 4: https://ncode.syosetu.com/n1717ml/28/
 - Episode 41 / Part 4 Episode 5: https://ncode.syosetu.com/n1717ml/29/
 - Episode 42 / Part 4 Episode 6: https://ncode.syosetu.com/n1717ml/30/
+- Episode 43 / Part 4 Episode 7: https://ncode.syosetu.com/n1717ml/31/
 
 ---
 
@@ -110,6 +111,7 @@
 | Episode 40 / 第40話 / Part 4 Episode 4 | [続けるための工夫](episodes/episode-40/episode-40_ja.md) | [Improvements for Keeping It Going](episodes/episode-40/episode-40_en.md) | [تحسينات من أجل الاستمرار](episodes/episode-40/episode-40_ar.md) |
 | Episode 41 / 第41話 / Part 4 Episode 5 | [数字の向こう側](episodes/episode-41/episode-41_ja.md) | [Beyond the Numbers](episodes/episode-41/episode-41_en.md) | [ما وراء الأرقام](episodes/episode-41/episode-41_ar.md) |
 | Episode 42 / 第42話 / Part 4 Episode 6 | [臨時ボーナスの予感](episodes/episode-42/episode-42_ja.md) | [A Hint of a Temporary Bonus](episodes/episode-42/episode-42_en.md) | [بوادر مكافأة مؤقتة](episodes/episode-42/episode-42_ar.md) |
+| Episode 43 / 第43話 / Part 4 Episode 7 | [夜道ボーナスと小さな事件](episodes/episode-43/episode-43_ja.md) | [Night Road Bonus and a Small Incident](episodes/episode-43/episode-43_en.md) | [مكافأة طريق الليل وحادث صغير](episodes/episode-43/episode-43_ar.md) |
 
 ---
 
