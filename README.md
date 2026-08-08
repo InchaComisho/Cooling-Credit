@@ -64,6 +64,7 @@
 - Episode 42 / Part 4 Episode 6: https://ncode.syosetu.com/n1717ml/30/
 - Episode 43 / Part 4 Episode 7: https://ncode.syosetu.com/n1717ml/31/
 - Episode 44 / Part 4 Episode 8: https://ncode.syosetu.com/n1717ml/32/
+- Episode 45 / Part 4 Episode 9: https://ncode.syosetu.com/n1717ml/33/
 
 ---
 
@@ -114,6 +115,7 @@
 | Episode 42 / 第42話 / Part 4 Episode 6 | [臨時ボーナスの予感](episodes/episode-42/episode-42_ja.md) | [A Hint of a Temporary Bonus](episodes/episode-42/episode-42_en.md) | [بوادر مكافأة مؤقتة](episodes/episode-42/episode-42_ar.md) |
 | Episode 43 / 第43話 / Part 4 Episode 7 | [夜道ボーナスと小さな事件](episodes/episode-43/episode-43_ja.md) | [Night Road Bonus and a Small Incident](episodes/episode-43/episode-43_en.md) | [مكافأة طريق الليل وحادث صغير](episodes/episode-43/episode-43_ar.md) |
 | Episode 44 / 第44話 / Part 4 Episode 8 | [街外れの先客](episodes/episode-44/episode-44_ja.md) | [The Prior Visitor at the Edge of Town](episodes/episode-44/episode-44_en.md) | [السابق إلى أطراف المدينة](episodes/episode-44/episode-44_ar.md) |
+| Episode 45 / 第45話 / Part 4 Episode 9 | [安全優先の選択](episodes/episode-45/episode-45_ja.md) | [The Safety-First Choice](episodes/episode-45/episode-45_en.md) | [خيار أولوية السلامة](episodes/episode-45/episode-45_ar.md) |
 
 ---
 
