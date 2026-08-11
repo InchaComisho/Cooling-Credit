@@ -67,6 +67,7 @@
 - Episode 45 / Part 4 Episode 9: https://ncode.syosetu.com/n1717ml/33/
 - Episode 46 / Part 4 Episode 10: https://ncode.syosetu.com/n1717ml/34/
 - Episode 47 / Part 4 Episode 11: https://ncode.syosetu.com/n1717ml/35/
+- Episode 48 / Part 4 Episode 12: https://ncode.syosetu.com/n1717ml/36/
 
 ---
 
@@ -120,6 +121,7 @@
 | Episode 45 / 第45話 / Part 4 Episode 9 | [安全優先の選択](episodes/episode-45/episode-45_ja.md) | [The Safety-First Choice](episodes/episode-45/episode-45_en.md) | [خيار أولوية السلامة](episodes/episode-45/episode-45_ar.md) |
 | Episode 46 / 第46話 / Part 4 Episode 10 | [旧待合所の鍵](episodes/episode-46/episode-46_ja.md) | [The Key to the Old Waiting Room](episodes/episode-46/episode-46_en.md) | [مفتاح غرفة الانتظار القديمة](episodes/episode-46/episode-46_ar.md) |
 | Episode 47 / 第47話 / Part 4 Episode 11 | [閉ざされた待合所の声](episodes/episode-47/episode-47_ja.md) | [The Voice of the Closed Waiting Room](episodes/episode-47/episode-47_en.md) | [صوت غرفة الانتظار المغلقة](episodes/episode-47/episode-47_ar.md) |
+| Episode 48 / 第48話 / Part 4 Episode 12 | [冷却機能の向こう側](episodes/episode-48/episode-48_ja.md) | [Beyond the Cooling Function](episodes/episode-48/episode-48_en.md) | [ما وراء وظيفة التبريد](episodes/episode-48/episode-48_ar.md) |
 
 ---
 
