@@ -68,6 +68,7 @@
 - Episode 46 / Part 4 Episode 10: https://ncode.syosetu.com/n1717ml/34/
 - Episode 47 / Part 4 Episode 11: https://ncode.syosetu.com/n1717ml/35/
 - Episode 48 / Part 4 Episode 12: https://ncode.syosetu.com/n1717ml/36/
+- Episode 49 / Part 4 Episode 13: https://ncode.syosetu.com/n1717ml/37/
 
 ---
 
@@ -122,6 +123,7 @@
 | Episode 46 / 第46話 / Part 4 Episode 10 | [旧待合所の鍵](episodes/episode-46/episode-46_ja.md) | [The Key to the Old Waiting Room](episodes/episode-46/episode-46_en.md) | [مفتاح غرفة الانتظار القديمة](episodes/episode-46/episode-46_ar.md) |
 | Episode 47 / 第47話 / Part 4 Episode 11 | [閉ざされた待合所の声](episodes/episode-47/episode-47_ja.md) | [The Voice of the Closed Waiting Room](episodes/episode-47/episode-47_en.md) | [صوت غرفة الانتظار المغلقة](episodes/episode-47/episode-47_ar.md) |
 | Episode 48 / 第48話 / Part 4 Episode 12 | [冷却機能の向こう側](episodes/episode-48/episode-48_ja.md) | [Beyond the Cooling Function](episodes/episode-48/episode-48_en.md) | [ما وراء وظيفة التبريد](episodes/episode-48/episode-48_ar.md) |
+| Episode 49 / 第49話 / Part 4 Episode 13 | [18分の冷却ライン](episodes/episode-49/episode-49_ja.md) | [The 18-Minute Cooling Line](episodes/episode-49/episode-49_en.md) | [خط التبريد ذو الثماني عشرة دقيقة](episodes/episode-49/episode-49_ar.md) |
 
 ---
 
