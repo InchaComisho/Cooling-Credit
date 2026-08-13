@@ -69,6 +69,7 @@
 - Episode 47 / Part 4 Episode 11: https://ncode.syosetu.com/n1717ml/35/
 - Episode 48 / Part 4 Episode 12: https://ncode.syosetu.com/n1717ml/36/
 - Episode 49 / Part 4 Episode 13: https://ncode.syosetu.com/n1717ml/37/
+- Episode 50 / Part 4 Episode 14: https://ncode.syosetu.com/n1717ml/38/
 
 ---
 
@@ -124,6 +125,7 @@
 | Episode 47 / 第47話 / Part 4 Episode 11 | [閉ざされた待合所の声](episodes/episode-47/episode-47_ja.md) | [The Voice of the Closed Waiting Room](episodes/episode-47/episode-47_en.md) | [صوت غرفة الانتظار المغلقة](episodes/episode-47/episode-47_ar.md) |
 | Episode 48 / 第48話 / Part 4 Episode 12 | [冷却機能の向こう側](episodes/episode-48/episode-48_ja.md) | [Beyond the Cooling Function](episodes/episode-48/episode-48_en.md) | [ما وراء وظيفة التبريد](episodes/episode-48/episode-48_ar.md) |
 | Episode 49 / 第49話 / Part 4 Episode 13 | [18分の冷却ライン](episodes/episode-49/episode-49_ja.md) | [The 18-Minute Cooling Line](episodes/episode-49/episode-49_en.md) | [خط التبريد ذو الثماني عشرة دقيقة](episodes/episode-49/episode-49_ar.md) |
+| Episode 50 / 第50話 / Part 4 Episode 14 | [再接続の五分間](episodes/episode-50/episode-50_ja.md) | [The Five Minutes of Reconnection](episodes/episode-50/episode-50_en.md) | [خمس دقائق لإعادة الاتصال](episodes/episode-50/episode-50_ar.md) |
 
 ---
 
