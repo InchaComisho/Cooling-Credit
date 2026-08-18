@@ -74,6 +74,7 @@
 - Episode 52 / Part 4 Episode 16: https://ncode.syosetu.com/n1717ml/40/
 - Episode 53 / Part 4 Episode 17: https://ncode.syosetu.com/n1717ml/41/
 - Episode 54 / Part 4 Episode 18: https://ncode.syosetu.com/n1717ml/42/
+- Episode 55 / Part 4 Episode 19: https://ncode.syosetu.com/n1717ml/43/
 
 ---
 
@@ -134,6 +135,7 @@
 | Episode 52 / 第52話 / Part 4 Episode 16 | [封印されたレバー](episodes/episode-52/episode-52_ja.md) | [The Sealed Lever](episodes/episode-52/episode-52_en.md) | [الرافعة المختومة](episodes/episode-52/episode-52_ar.md) |
 | Episode 53 / 第53話 / Part 4 Episode 17 | [夜の二地点作戦](episodes/episode-53/episode-53_ja.md) | [The Two-Location Night Operation](episodes/episode-53/episode-53_en.md) | [عملية ليلية بين موقعين](episodes/episode-53/episode-53_ar.md) |
 | Episode 54 / 第54話 / Part 4 Episode 18 | [遠隔起動まで十分](episodes/episode-54/episode-54_ja.md) | [Ten Minutes Until Remote Activation](episodes/episode-54/episode-54_en.md) | [عشر دقائق حتى التشغيل عن بُعد](episodes/episode-54/episode-54_ar.md) |
+| Episode 55 / 第55話 / Part 4 Episode 19 | [冷やす場所、守る人](episodes/episode-55/episode-55_ja.md) | [Places to Cool, People to Protect](episodes/episode-55/episode-55_en.md) | [أماكن نبرّدها وأناس نحميهم](episodes/episode-55/episode-55_ar.md) |
 
 ---
 
