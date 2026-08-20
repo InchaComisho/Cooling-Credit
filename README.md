@@ -76,6 +76,7 @@
 - Episode 54 / Part 4 Episode 18: https://ncode.syosetu.com/n1717ml/42/
 - Episode 55 / Part 4 Episode 19: https://ncode.syosetu.com/n1717ml/43/
 - Episode 56 / Part 4 Episode 20: https://ncode.syosetu.com/n1717ml/44/
+- Episode 57 / Part 4 Episode 21: https://ncode.syosetu.com/n1717ml/45/
 
 ---
 
@@ -138,6 +139,7 @@
 | Episode 54 / 第54話 / Part 4 Episode 18 | [遠隔起動まで十分](episodes/episode-54/episode-54_ja.md) | [Ten Minutes Until Remote Activation](episodes/episode-54/episode-54_en.md) | [عشر دقائق حتى التشغيل عن بُعد](episodes/episode-54/episode-54_ar.md) |
 | Episode 55 / 第55話 / Part 4 Episode 19 | [冷やす場所、守る人](episodes/episode-55/episode-55_ja.md) | [Places to Cool, People to Protect](episodes/episode-55/episode-55_en.md) | [أماكن نبرّدها وأناس نحميهم](episodes/episode-55/episode-55_ar.md) |
 | Episode 56 / 第56話 / Part 4 Episode 20 | [暗闇の非常換気](episodes/episode-56/episode-56_ja.md) | [Emergency Ventilation in the Dark](episodes/episode-56/episode-56_en.md) | [تهوية الطوارئ في الظلام](episodes/episode-56/episode-56_ar.md) |
+| Episode 57 / 第57話 / Part 4 Episode 21 | [四地点の夜](episodes/episode-57/episode-57_ja.md) | [The Night of Four Locations](episodes/episode-57/episode-57_en.md) | [ليلة المواقع الأربعة](episodes/episode-57/episode-57_ar.md) |
 
 ---
 
