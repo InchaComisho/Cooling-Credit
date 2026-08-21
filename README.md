@@ -77,6 +77,7 @@
 - Episode 55 / Part 4 Episode 19: https://ncode.syosetu.com/n1717ml/43/
 - Episode 56 / Part 4 Episode 20: https://ncode.syosetu.com/n1717ml/44/
 - Episode 57 / Part 4 Episode 21: https://ncode.syosetu.com/n1717ml/45/
+- Episode 58 / Part 4 Episode 22: https://ncode.syosetu.com/n1717ml/46/
 
 ---
 
@@ -140,6 +141,7 @@
 | Episode 55 / 第55話 / Part 4 Episode 19 | [冷やす場所、守る人](episodes/episode-55/episode-55_ja.md) | [Places to Cool, People to Protect](episodes/episode-55/episode-55_en.md) | [أماكن نبرّدها وأناس نحميهم](episodes/episode-55/episode-55_ar.md) |
 | Episode 56 / 第56話 / Part 4 Episode 20 | [暗闇の非常換気](episodes/episode-56/episode-56_ja.md) | [Emergency Ventilation in the Dark](episodes/episode-56/episode-56_en.md) | [تهوية الطوارئ في الظلام](episodes/episode-56/episode-56_ar.md) |
 | Episode 57 / 第57話 / Part 4 Episode 21 | [四地点の夜](episodes/episode-57/episode-57_ja.md) | [The Night of Four Locations](episodes/episode-57/episode-57_en.md) | [ليلة المواقع الأربعة](episodes/episode-57/episode-57_ar.md) |
+| Episode 58 / 第58話 / Part 4 Episode 22 | [旧制御席の男](episodes/episode-58/episode-58_ja.md) | [The Man in the Old Control Seat](episodes/episode-58/episode-58_en.md) | [الرجل في مقعد التحكم القديم](episodes/episode-58/episode-58_ar.md) |
 
 ---
 
