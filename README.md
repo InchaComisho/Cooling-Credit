@@ -79,6 +79,7 @@
 - Episode 57 / Part 4 Episode 21: https://ncode.syosetu.com/n1717ml/45/
 - Episode 58 / Part 4 Episode 22: https://ncode.syosetu.com/n1717ml/46/
 - Episode 59 / Part 4 Episode 23: https://ncode.syosetu.com/n1717ml/47/
+- Episode 60 / Part 4 Episode 24: https://ncode.syosetu.com/n1717ml/48/
 
 ---
 
@@ -144,6 +145,7 @@
 | Episode 57 / 第57話 / Part 4 Episode 21 | [四地点の夜](episodes/episode-57/episode-57_ja.md) | [The Night of Four Locations](episodes/episode-57/episode-57_en.md) | [ليلة المواقع الأربعة](episodes/episode-57/episode-57_ar.md) |
 | Episode 58 / 第58話 / Part 4 Episode 22 | [旧制御席の男](episodes/episode-58/episode-58_ja.md) | [The Man in the Old Control Seat](episodes/episode-58/episode-58_en.md) | [الرجل في مقعد التحكم القديم](episodes/episode-58/episode-58_ar.md) |
 | Episode 59 / 第59話 / Part 4 Episode 23 | [屋上の予備循環](episodes/episode-59/episode-59_ja.md) | [Backup Circulation on the Rooftop](episodes/episode-59/episode-59_en.md) | [التداول الاحتياطي على السطح](episodes/episode-59/episode-59_ar.md) |
+| Episode 60 / 第60話 / Part 4 Episode 24 | [運用者にならない選択](episodes/episode-60/episode-60_ja.md) | [Choosing Not to Become the Operator](episodes/episode-60/episode-60_en.md) | [اختيار ألا يصبح مشغّلاً](episodes/episode-60/episode-60_ar.md) |
 
 ---
 
