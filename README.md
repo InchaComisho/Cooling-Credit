@@ -80,6 +80,7 @@
 - Episode 58 / Part 4 Episode 22: https://ncode.syosetu.com/n1717ml/46/
 - Episode 59 / Part 4 Episode 23: https://ncode.syosetu.com/n1717ml/47/
 - Episode 60 / Part 4 Episode 24: https://ncode.syosetu.com/n1717ml/48/
+- Episode 61 / Part 4 Episode 25: https://ncode.syosetu.com/n1717ml/49/
 
 ---
 
@@ -125,7 +126,7 @@
 | Episode 37 / 第37話 / Part 4 Episode 1 | [運用初日の空気](episodes/episode-37/episode-37_ja.md) | [The Atmosphere of the First Day of Operation](episodes/episode-37/episode-37_en.md) | [أجواء اليوم الأول من التشغيل](episodes/episode-37/episode-37_ar.md) |
 | Episode 38 / 第38話 / Part 4 Episode 2 | [小さな摩擦](episodes/episode-38/episode-38_ja.md) | [Small Frictions](episodes/episode-38/episode-38_en.md) | [احتكاكات صغيرة](episodes/episode-38/episode-38_ar.md) |
 | Episode 39 / 第39話 / Part 4 Episode 3 | [ひとことが広がる](episodes/episode-39/episode-39_ja.md) | [One Sentence Spreads](episodes/episode-39/episode-39_en.md) | [جملة واحدة تنتشر](episodes/episode-39/episode-39_ar.md) |
-| Episode 40 / 第40話 / Part 4 Episode 4 | [続けるための工夫](episodes/episode-40/episode-40_ja.md) | [Improvements for Keeping It Going](episodes/episode-40/episode-40_en.md) | [تحسينات من أجل الاستمرار](episodes/episode-40/episode-40_ar.md) |
+| Episode 40 / 第40話 / Part 4 Episode 4 | [使わない人の理由](episodes/episode-40/episode-40_ja.md) | [Reasons for Not Using It](episodes/episode-40/episode-40_en.md) | [أسباب من لا يستخدمونه](episodes/episode-40/episode-40_ar.md) |
 | Episode 41 / 第41話 / Part 4 Episode 5 | [数字の向こう側](episodes/episode-41/episode-41_ja.md) | [Beyond the Numbers](episodes/episode-41/episode-41_en.md) | [ما وراء الأرقام](episodes/episode-41/episode-41_ar.md) |
 | Episode 42 / 第42話 / Part 4 Episode 6 | [臨時ボーナスの予感](episodes/episode-42/episode-42_ja.md) | [A Hint of a Temporary Bonus](episodes/episode-42/episode-42_en.md) | [بوادر مكافأة مؤقتة](episodes/episode-42/episode-42_ar.md) |
 | Episode 43 / 第43話 / Part 4 Episode 7 | [夜道ボーナスと小さな事件](episodes/episode-43/episode-43_ja.md) | [Night Road Bonus and a Small Incident](episodes/episode-43/episode-43_en.md) | [مكافأة طريق الليل وحادث صغير](episodes/episode-43/episode-43_ar.md) |
@@ -146,6 +147,7 @@
 | Episode 58 / 第58話 / Part 4 Episode 22 | [旧制御席の男](episodes/episode-58/episode-58_ja.md) | [The Man in the Old Control Seat](episodes/episode-58/episode-58_en.md) | [الرجل في مقعد التحكم القديم](episodes/episode-58/episode-58_ar.md) |
 | Episode 59 / 第59話 / Part 4 Episode 23 | [屋上の予備循環](episodes/episode-59/episode-59_ja.md) | [Backup Circulation on the Rooftop](episodes/episode-59/episode-59_en.md) | [التداول الاحتياطي على السطح](episodes/episode-59/episode-59_ar.md) |
 | Episode 60 / 第60話 / Part 4 Episode 24 | [運用者にならない選択](episodes/episode-60/episode-60_ja.md) | [Choosing Not to Become the Operator](episodes/episode-60/episode-60_en.md) | [اختيار ألا يصبح مشغّلاً](episodes/episode-60/episode-60_ar.md) |
+| Episode 61 / 第61話 / Part 4 Episode 25 | [FROST-9からの招待](episodes/episode-61/episode-61_ja.md) | [An Invitation from FROST-9](episodes/episode-61/episode-61_en.md) | [دعوة من FROST-9](episodes/episode-61/episode-61_ar.md) |
 
 ---
 
@@ -184,84 +186,36 @@ This repository is part of the broader Cooling Credit knowledge system proposed 
 
 **Cooling Credit** began with one question: what would happen if climate action were evaluated by results rather than declarations?
 
-In this world, value is no longer created by simply claiming environmental responsibility. What matters is whether temperature actually decreases. The old carbon credit system collapsed after becoming dependent on paperwork, unverifiable reductions, and performative sustainability. After that failure, humanity adopted a simpler and harsher rule.
+In this world, value is created not by environmental claims, but by whether measurable temperature has actually been lowered. Carbon credits once depended on proof of emission reductions and paper-based trading. After that system collapsed under falsification and superficial environmental measures, humanity chose a simpler and harsher standard.
 
-That rule is **Cooling Credit (CC)**.
+That standard is **Cooling Credit (CC)**.
 
-Cooling becomes value. Temperature difference, humidity, exhaust heat, reflectivity, evaporation, shade, urban structure, and even human movement are measured and converted into cooling credit. The protagonist, Soma Yuto, encounters this rule in a city overwhelmed by extreme heat. Before long, he begins to see heat not merely as an enemy, but as a system to understand, design, and optimize.
+Cooling is evaluated directly. Temperature difference, humidity, waste heat, reflectivity, evaporation, shade, urban structure, and human movement are all quantified and converted into cooling value. Soma Yuto encounters this rule in a city under extreme heat, and gradually begins to see “heat” not as an enemy, but as something to be solved.
 
-This work explores climate crisis, urban design, cooling infrastructure, behavioral economics, and game-like optimization through accessible speculative fiction.
-
----
-
-## نظرة عامة بالعربية
-
-**رصيد التبريد** هو عمل خيالي تأملي وفكرة مفاهيمية وُلدت من سؤال بسيط: ماذا سيحدث إذا قيّمنا إجراءات مواجهة الاحترار العالمي بناءً على النتائج الفعلية، لا على الادعاءات؟
-
-في هذا العالم، لا تُمنح القيمة لمن يقول إنه صديق للبيئة، بل لمن ينجح فعلاً في خفض درجة الحرارة. لقد انهار نظام أرصدة الكربون القديم بعد أن أصبح معتمداً على الوثائق، وإثباتات خفض الانبعاثات التي يمكن تزويرها، والاستدامة الشكلية. وبعد ذلك الانهيار، اختارت البشرية قاعدة أبسط وأكثر قسوة.
-
-تلك القاعدة هي **رصيد التبريد (CC)**.
-
-كل تبريد قابل للقياس يصبح قيمة. فرق الحرارة، والرطوبة، والحرارة المطرودة، والانعكاسية، والتبخر، والظل، وبنية المدينة، وحتى حركة الناس، كلها تتحول إلى بيانات تُقاس وتُحسب كأرصدة تبريد. يواجه البطل، سوما يوتو، هذه القاعدة في مدينة يطحنها الحر الشديد، ثم يبدأ تدريجياً في رؤية الحرارة لا كعدو فقط، بل كنظام يمكن فهمه وتصميمه وتحسينه.
-
-يحاول هذا العمل تناول أزمة المناخ، وتصميم المدن، وبنية التبريد التحتية، والاقتصاد السلوكي، وفكرة التحسين الشبيه بالألعاب، من خلال قصة سهلة الفهم وقريبة من القارئ.
+This story is an attempt to depict climate crisis, urban design, cooling infrastructure, behavioral economics, and game-like optimization as an intuitive narrative.
 
 ---
 
-## Credits / クレジット / الاعتمادات
+## العربية
 
-**Original Concept / 原案・構想 / الفكرة الأصلية:** マスター / Master  
-**Story Structure and Japanese Text / 物語構成・本文作成 / بناء القصة والنص الياباني:** リアル（Perplexity） / Real (Perplexity)  
-**Repository Editing and Multilingual Expansion / GitHub構成・多言語展開 / إعداد المستودع والتوسيع متعدد اللغات:** G（ChatGPT） / G (ChatGPT)
+**رصيد التبريد** هو مشروع روائي وإطار تصوري ينطلق من سؤال بسيط: ماذا يحدث إذا جرى تقييم العمل المناخي على أساس النتائج، لا على أساس الادعاءات؟
 
-<!-- COOLING-CREDIT-REPOSITORY-FAMILY:START -->
+في هذا العالم، لا تنشأ القيمة من القول إن شيئاً ما صديق للبيئة، بل من القدرة على خفض درجة الحرارة فعلياً وبشكل قابل للقياس. لقد اعتمدت أرصدة الكربون سابقاً على إثبات خفض الانبعاثات والتبادل الورقي. لكن بعد أن انهار ذلك النظام بسبب التزييف والإجراءات البيئية الشكلية، اختارت البشرية معياراً أبسط وأكثر قسوة.
 
----
+ذلك المعيار هو **Cooling Credit (CC)**.
 
-## Related Cooling Credit Repositories
+كل ما يبرد يُقيّم. فرق الحرارة، الرطوبة، الحرارة المهدرة، الانعكاسية، التبخر، الظل، بنية المدينة، وحركة الناس، كلها تُقاس وتتحول إلى قيمة تبريدية. يلتقي البطل سوما يوتو بهذا القانون في مدينة تعاني من الحر الشديد، ويبدأ تدريجياً في رؤية «الحرارة» لا كعدو فقط، بل كشيء يمكن التعامل معه وحله.
 
-This repository is part of the broader Cooling Credit knowledge system proposed by Master / inchacomusho / InchaComisho.
-
-- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — Core concept and overview of Cooling Credit.
-- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — Official definition and classification framework.
-- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — Structural framework for Cooling Credit evaluation.
-- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — Practical implementation portfolio.
-- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — Implementation and finance model.
-- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — Transition model from Carbon Credit to Cooling Credit.
-- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — Analysis of Carbon Credit limitations and the need for Cooling Credit.
-- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — Portal for sustainable future and Cooling Credit knowledge.
-- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — El Niño warning and Cooling Credit perspective.
-- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — Climate disasters as heat redistribution and the role of Cooling Credit.
-
-<!-- COOLING-CREDIT-REPOSITORY-FAMILY:END -->
+هذه القصة محاولة لتقديم أزمة المناخ، وتصميم المدن، وبنية التبريد، والاقتصاد السلوكي، والتحسين الشبيه بالألعاب، في صورة روائية سهلة الحدس.
 
 ---
 
-## License / ライセンス / الترخيص
+## Credits
 
-This repository is published as an open conceptual and literary archive.  
-このリポジトリは、オープンな構想・物語アーカイブとして公開されています。  
-يُنشر هذا المستودع كأرشيف مفتوح للأفكار والأعمال السردية.
-
----
-
-## Author
-
-Master / inchacomusho / InchaComisho
-
-An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
-Founder and proposer of the academic framework of Natural Complementary Science.  
-Definer of the Cooling Credit Framework, and founder and original author of the Natural Cooling Value Evaluation Protocol.  
-Definer and systematizer of the causal structure of global warming and its complete solution.
-
-Master presents global warming not merely as a problem of CO₂ concentration, but as an integrated failure involving forest loss, soil degradation, disruption of water circulation, weakening of water phase-transition processes, weakening of atmospheric circulation, ocean circulation, food circulation and organic matter circulation, weakening of evapotranspiration, cloud formation and rainfall circulation, and the shutdown of natural cooling feedbacks.  
-The proposed solution connects emission reduction, recovery of carbon fixation sources, physical cooling, reactivation of natural cooling functions, MRV, Cooling Credit, and Civilization OS into an open public framework.
-
-Master publicly develops and shares work through NOTE, GitHub, and other public media, centered on natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+Original Concept: Master / inchacomusho / InchaComisho  
+Story Structure and Text: Real (Perplexity), with multilingual organization and repository maintenance support from G (ChatGPT)
 
 ## License
 
-CC BY 4.0
-
-This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
-Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
+This project is released as a public conceptual and creative reference.  
+For commercial use, redistribution, or derivative publication, please credit the original concept holder: Master / inchacomusho / InchaComisho.
