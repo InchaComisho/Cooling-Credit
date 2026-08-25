@@ -81,6 +81,7 @@
 - Episode 59 / Part 4 Episode 23: https://ncode.syosetu.com/n1717ml/47/
 - Episode 60 / Part 4 Episode 24: https://ncode.syosetu.com/n1717ml/48/
 - Episode 61 / Part 4 Episode 25: https://ncode.syosetu.com/n1717ml/49/
+- Episode 62 / Part 4 Episode 26: https://ncode.syosetu.com/n1717ml/50/
 
 ---
 
@@ -148,6 +149,7 @@
 | Episode 59 / 第59話 / Part 4 Episode 23 | [屋上の予備循環](episodes/episode-59/episode-59_ja.md) | [Backup Circulation on the Rooftop](episodes/episode-59/episode-59_en.md) | [التداول الاحتياطي على السطح](episodes/episode-59/episode-59_ar.md) |
 | Episode 60 / 第60話 / Part 4 Episode 24 | [運用者にならない選択](episodes/episode-60/episode-60_ja.md) | [Choosing Not to Become the Operator](episodes/episode-60/episode-60_en.md) | [اختيار ألا يصبح مشغّلاً](episodes/episode-60/episode-60_ar.md) |
 | Episode 61 / 第61話 / Part 4 Episode 25 | [FROST-9からの招待](episodes/episode-61/episode-61_ja.md) | [An Invitation from FROST-9](episodes/episode-61/episode-61_en.md) | [دعوة من FROST-9](episodes/episode-61/episode-61_ar.md) |
+| Episode 62 / 第62話 / Part 4 Episode 26 | [5.000 CCの条件](episodes/episode-62/episode-62_ja.md) | [The Conditions for 5.000 CC](episodes/episode-62/episode-62_en.md) | [شروط 5.000 CC](episodes/episode-62/episode-62_ar.md) |
 
 ---
 
