@@ -82,6 +82,7 @@
 - Episode 60 / Part 4 Episode 24: https://ncode.syosetu.com/n1717ml/48/
 - Episode 61 / Part 4 Episode 25: https://ncode.syosetu.com/n1717ml/49/
 - Episode 62 / Part 4 Episode 26: https://ncode.syosetu.com/n1717ml/50/
+- Episode 63 / Part 4 Episode 27: https://ncode.syosetu.com/n1717ml/51/
 
 ---
 
@@ -150,6 +151,7 @@
 | Episode 60 / 第60話 / Part 4 Episode 24 | [運用者にならない選択](episodes/episode-60/episode-60_ja.md) | [Choosing Not to Become the Operator](episodes/episode-60/episode-60_en.md) | [اختيار ألا يصبح مشغّلاً](episodes/episode-60/episode-60_ar.md) |
 | Episode 61 / 第61話 / Part 4 Episode 25 | [FROST-9からの招待](episodes/episode-61/episode-61_ja.md) | [An Invitation from FROST-9](episodes/episode-61/episode-61_en.md) | [دعوة من FROST-9](episodes/episode-61/episode-61_ar.md) |
 | Episode 62 / 第62話 / Part 4 Episode 26 | [5.000 CCの条件](episodes/episode-62/episode-62_ja.md) | [The Conditions for 5.000 CC](episodes/episode-62/episode-62_en.md) | [شروط 5.000 CC](episodes/episode-62/episode-62_ar.md) |
+| Episode 63 / 第63話 / Part 4 Episode 27 | [午前六時の北第七码頭](episodes/episode-63/episode-63_ja.md) | [North Seventh Wharf at 6:00 a.m.](episodes/episode-63/episode-63_en.md) | [الرصيف الشمالي السابع عند السادسة صباحاً](episodes/episode-63/episode-63_ar.md) |
 
 ---
 
