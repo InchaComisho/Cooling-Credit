@@ -1,6 +1,6 @@
 # 第14話　設計図の端に書かれた文字
 
-[← Top / README](../../README.md)
+[← Top / README](../../README_ja.md)
 
 第14話では、ユウトが提出したCOOL STREET／COOL WATERレポートに対する制度側からの反応が返ってきます。
 

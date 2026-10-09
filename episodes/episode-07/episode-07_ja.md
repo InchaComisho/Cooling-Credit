@@ -1,6 +1,6 @@
 # 第7話　ログが返ってくる
 
-[← Top / README](../../README.md)
+[← Top / README](../../README_ja.md)
 
 第7話では、ユウトが《ThermoBalance》内で公開した冷却レポートに対して、具体的な反応と相談が返ってくるようになります。
 

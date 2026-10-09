@@ -1,6 +1,6 @@
 # 第15話　会議室からの風
 
-[← Top / README](../../README.md)
+[← Top / README](../../README_ja.md)
 
 第15話では、WindArcが参加したCOOL STREETの設計ミーティングの結果が、ユウトの街に少しずつ反映されていく様子を描きます。
 

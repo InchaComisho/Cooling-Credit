@@ -1,6 +1,6 @@
 # 第16話　企業からの相談窓口
 
-[← Top / README](../../README.md)
+[← Top / README](../../README_ja.md)
 
 第16話では、COOL STREET／COOL WATERの動きが一段落したタイミングで、ユウトに「企業側からの相談」が届きます。
 

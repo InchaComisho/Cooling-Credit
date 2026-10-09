@@ -1,6 +1,6 @@
 # 第25話　正式版が始まる日
 
-[← Top / README](../../README.md)
+[← Top / README](../../README_ja.md)
 
 第三部の第1話（通算25話）は、「Cooling Commonsが“正式版”として動き始める、その立ち上がり」にユウトが立ち会う回として書きます。
 
