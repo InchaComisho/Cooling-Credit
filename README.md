@@ -1,5 +1,7 @@
 # Cooling Credit / クーリングクレジット / رصيد التبريد
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 **Cooling Credit** is a speculative fiction project and conceptual framework about a result-based climate economy: a world where value is created not by claiming to be environmentally friendly, but by actually lowering measurable temperature.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
